@@ -7,3 +7,6 @@ phases:
 artifacts:
   files:
     - 'target/*'
+    - scripts/appspec.yml
+    - scripts/start-app.sh
+    - scripts/stop-app.sh
